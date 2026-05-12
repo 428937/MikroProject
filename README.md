@@ -18,5 +18,3 @@ The source code is organized into distinct functional blocks to ensure clarity a
 1.  Assemble the code using **TASM** or **NASM**.
 2.  Run the resulting `.COM` file in **DOSBox**.
 3.  Objective: Press the target key before the timer hits zero
-
-*Developed as a demonstration of low-level programming and interrupt handling.*
