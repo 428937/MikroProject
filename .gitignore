@@ -1,0 +1,16 @@
+*.com
+*.exe
+
+*.obj
+*.o
+
+*.lst
+*.map
+*.tr
+
+*.td
+*.td2
+*.trm
+
+*.tmp
+*.bak
