@@ -7,7 +7,7 @@ basla:
 
 yeni_tur:
 secim_dongusu:
-    ; Rastgele harf uretme (Sistem saati kullanilir
+    ; Rastgele harf uretme (Sistem saati kullanilir)
     mov ah, 00h
     int 1Ah
     mov ax, dx
