@@ -2,7 +2,7 @@
 
 A 16-bit x86 Assembly game developed for DOS environments. This project demonstrates low-level hardware interaction, real-time timing, and modular logic design.
 
-### Overview
+## Overview
 The game challenges the player to press random keys ('a' through 'h') within a decreasing time window. It is written in 8086 Assembly and runs in DOS real mode.
 
 ## Modular Structure
