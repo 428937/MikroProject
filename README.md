@@ -14,7 +14,7 @@ The source code is organized into distinct functional blocks to ensure clarity a
 *   **Difficulty Controller:** A dynamic logic block that scales the `bekleme_suresi` (waiting time) based on the user's `kombo` count.
 *   **Utility Functions:** Contains `sayi_yazdir`, a reusable procedure for binary-to-ASCII conversion.
 
-## How to Run
+### How to Run
 1.  Assemble the code using **TASM** or **NASM**.
 2.  Run the resulting `.COM` file in **DOSBox**.
 3.  Objective: Press the target key before the timer hits zero
