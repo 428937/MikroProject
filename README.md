@@ -1,4 +1,4 @@
-## Assembly Rhythm Game
+# Assembly Rhythm Game
 
 A 16-bit x86 Assembly game developed for DOS environments. This project demonstrates low-level hardware interaction, real-time timing, and modular logic design.
 
